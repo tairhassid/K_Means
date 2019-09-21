@@ -1,0 +1,1 @@
+Implementation of K Means algorithm in parallel using C programming language, MPI, OMP and CUDA
