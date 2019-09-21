@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(63): warning C4101: 'j': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(63): warning C4101: 'i': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(67): warning C4101: 'centers': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(207): warning C4101: 'indexInCluster': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(290): warning C4101: 'clusterForPoint': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\k_means\k_means\main.cpp(253): warning C4715: 'findCluster': not all control paths return a value
+  K_Means.vcxproj -> c:\Users\DELL\documents\visual studio 2015\Projects\K_Means\Debug\K_Means.exe
+  K_Means.vcxproj -> c:\Users\DELL\documents\visual studio 2015\Projects\K_Means\Debug\K_Means.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "c:\Users\DELL\documents\visual studio 2015\Projects\K_Means\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
